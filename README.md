@@ -5,7 +5,7 @@ An Arduino based USB Keyboard that uses a serial console as the input
 This is my answer to setting up a new computer but not having an external keyboard handy. It takes input from a serial console and (poorly) emulates a USB keyboard.
 
 ## Should I use it?
-Probably not. You're better off getting a cheap keyboard (I did not 2 hours after building this...) but it is handy in a pinch.
+Probably not. You're better off getting a cheap keyboard (I did, not even 2 hours after building this...) but it is handy in a pinch.
 
 ## Can I use it?
 You're free to do whatever<sup>[1]</sup> you want with this.   
@@ -24,4 +24,4 @@ You're free to do whatever<sup>[1]</sup> you want with this.
 1. Anything you type in the console will show up on the other end as a key press. 
 
 ### Limitations
-Because i'm lazy, it's will only emulate printable ASCII characters, arrow keys, return and backspace. 
+Because I’m lazy, it will only emulate printable ASCII characters, arrow keys, return and backspace.
